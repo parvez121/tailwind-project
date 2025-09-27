@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.slick-dots li button:before {
+  color: #2563eb !important; /* Tailwind Blue-600 */
+  font-size: 12px;
+}
+.slick-prev:before, .slick-next:before {
+  color: #2563eb !important;
+  font-size: 20px;
+}
